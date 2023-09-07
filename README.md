@@ -1,5 +1,5 @@
 # Simple Python Template for IDS706 fall 2023
-Python template to be used for GitHub codespaces
+Python template to be used to standardize tje base environment for GitHub codespace projects
 contains:
 
 * `Makefile`
